@@ -1,21 +1,21 @@
 html { 
     height: 100%;
-    background-color: bisque;
-    font-family: 'Arial';
+    background-color: DarkSalmon;
+    font-family: 'TimesNewRoman';
 }
 
 .informationbox {
     width: 600px; 
     height: 400px; 
     margin: 8% auto; 
-    background: tomato; 
+    background: IndianRed; 
     border-radius: 5px; 
     position: relative; 
 }
 
 h2 {
     text-align: center;  
-    color: tomato;
+    color: IndianRed;
     font-size: x-large;
 }
 
