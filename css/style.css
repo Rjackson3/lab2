@@ -1,0 +1,43 @@
+html { 
+    height: 100%;
+    background-color: bisque;
+    font-family: 'Arial';
+}
+
+.informationbox {
+    width: 600px; 
+    height: 400px; 
+    margin: 8% auto; 
+    background: tomato; 
+    border-radius: 5px; 
+    position: relative; 
+}
+
+h2 {
+    text-align: center;  
+    color: tomato;
+    font-size: x-large;
+}
+
+.bottonbox {
+    width: 50%; 
+    margin: 30px auto; 
+    text-align: center;
+}
+
+
+form input { 
+    width: 50%; 
+    padding: 10px 5px;
+    margin: 5px 0;
+    border: 5px;
+}
+
+
+
+@media screen 
+    and (max-width: 500px) {
+        .container {
+            margin: auto;
+        }
+    }
